@@ -1,0 +1,18 @@
+.addPosts {
+    text-align: center;
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.posts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.noPosts {
+    width: 70%;
+    height: 70%;
+}

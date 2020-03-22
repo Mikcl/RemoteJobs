@@ -1,0 +1,33 @@
+.Landing {
+    /* font-family: "Courier"; */
+    display: flex;
+    padding-top: 2%;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+
+.background {
+    height: 100%;
+    width: 100%;
+}
+
+
+.description {
+    margin-top: auto;
+    height: auto;
+    width: auto;
+}
+
+.introduction {
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.link {
+    color: blue;
+}

@@ -1,0 +1,23 @@
+.custom {
+    background-color: white;
+}
+
+.container.navRow {
+    display: flex;
+}
+
+.links {
+    justify-content: flex-end;
+}
+
+.brand, .brand:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.name, .name:hover {
+    /* position: absolute; */
+    color: blue;
+    font-weight: bold;
+    /* padding-right: 2%; */
+}
